@@ -10,3 +10,4 @@ print(eval('1-2*3'))
 x = 100
 print(eval('x+5'))
 print(eval('x**2'))
+print(eval('(1-2)*3'))
